@@ -13,4 +13,6 @@ TP4055充电模块
 采用了OKRA 的3.7寸黑白墨水屏作为显示设备
 三个凯华微动按键作为输入设备
 
+![image]https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink/blob/main/IMG20230620111338.jpg
+
 To do
