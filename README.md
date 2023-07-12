@@ -27,4 +27,11 @@ A small but versatile handheld ebook
 
 ![image](https://github.com/HX-Titaniumc-wwt/3.7Inch-Eink/blob/main/IMG20230620111338.jpg)
 
+制作方法：
+1. 从PCB文件夹下载PCB制板文件交给PCB制造商制作（嘉立创可以白嫖），打印外壳
+2. 下载BOM表采购零件，注意1uf电容需要耐压25V以上，按键为3*2*3.5侧边按键 + 三枚凯华 “窄”微动
+3. 焊接PCB1：以24pin座子为界限，首先焊接座子和type-c之间的零件，焊接完成后测试 typec外壳 和 侧面拨动按键三个引脚 是否短路
+4. 焊接PCB2：焊接后续部分电路，并同样测试是否短路（98357功放部分电路如果不使用可以不焊接）
+5. 将屏幕插入主板座子，先将屏幕放入壳内屏幕固定框，再进行其他装配
+
 To do
